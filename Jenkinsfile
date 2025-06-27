@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'manikiran7/java'
+        DOCKER_IMAGE = 'saikiran0509/java'
         TAG = 'v0.0.1'
     }
 
